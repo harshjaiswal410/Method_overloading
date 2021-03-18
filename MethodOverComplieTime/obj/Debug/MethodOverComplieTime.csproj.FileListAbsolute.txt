@@ -1,0 +1,7 @@
+C:\Users\jaisw\source\repos\MethodOverComplieTime\MethodOverComplieTime\obj\Debug\MethodOverComplieTime.csprojAssemblyReference.cache
+C:\Users\jaisw\source\repos\MethodOverComplieTime\MethodOverComplieTime\obj\Debug\MethodOverComplieTime.csproj.CoreCompileInputs.cache
+C:\Users\jaisw\source\repos\MethodOverComplieTime\MethodOverComplieTime\bin\Debug\MethodOverComplieTime.exe.config
+C:\Users\jaisw\source\repos\MethodOverComplieTime\MethodOverComplieTime\bin\Debug\MethodOverComplieTime.exe
+C:\Users\jaisw\source\repos\MethodOverComplieTime\MethodOverComplieTime\bin\Debug\MethodOverComplieTime.pdb
+C:\Users\jaisw\source\repos\MethodOverComplieTime\MethodOverComplieTime\obj\Debug\MethodOverComplieTime.exe
+C:\Users\jaisw\source\repos\MethodOverComplieTime\MethodOverComplieTime\obj\Debug\MethodOverComplieTime.pdb
